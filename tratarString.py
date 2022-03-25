@@ -11,8 +11,6 @@
 # \b >> borda
 # \B >> não borda
 
-
-
 import re
 
 texto = '''
